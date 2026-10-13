@@ -9,6 +9,8 @@ Trabajo práctico final de **Circuitos Lógicos Programables** (Especialización
 
 Autores: Espinola Maximiliano, Sottile Victoria.
 
+Video demostrativo: https://youtu.be/AbcuTCT8Qqc 
+
 ## Características
 
 - Tres frecuencias seleccionables: **1 kHz, 10 kHz y 100 kHz**.
