@@ -6,6 +6,7 @@ Trabajo final Circuitos Lógicos Programables - PWM Configurable por UART -
 Implementación en **VHDL** de un generador PWM cuya frecuencia y ciclo de trabajo (duty cycle) se configuran desde una PC mediante comandos de texto enviados por UART. La FPGA responde `OK` o `ERR` a cada comando. Está implementado sobre la placa **Arty Z7-10 (Zynq-7000)** con **Vivado 2018.3**.
 
 Trabajo práctico final de **Circuitos Lógicos Programables** (Especialización en Sistemas Embebidos).
+
 Autores: Espinola Maximiliano, Sottile Victoria.
 
 ## Características
